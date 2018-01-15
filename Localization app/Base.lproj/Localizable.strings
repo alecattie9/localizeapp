@@ -1,0 +1,8 @@
+ /* 
+  Localizable.strings
+  Localization app
+
+  Created by Alec Attie on 1/15/18.
+  Copyright © 2018 Alec Attie. All rights reserved.
+*/
+"welcome" = "hola";
